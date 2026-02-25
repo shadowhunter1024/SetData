@@ -1,5 +1,11 @@
 # SetData
-SetData是一款在情报分析工作中可以进行数据的交集、差集、并集运算的工具。SetData is a tool for performing intersection, difference, and union operations on data in intelligence analysis.
+<img width="1857" height="960" alt="image" src="https://github.com/user-attachments/assets/532af022-7b0a-4ffa-b35b-3ec13bde6428" />
+<img width="1857" height="960" alt="image" src="https://github.com/user-attachments/assets/c2c0e753-dbfd-4c21-b129-a5c369a4f98d" />
+
+SetData is a tool for performing intersection, difference, and union operations on data in intelligence analysis.
+
+SetData是一款在情报分析工作中可以进行数据的交集、差集、并集运算的工具。
+
 
 [Upload# **SetData \- In-Depth User Manual**
 
