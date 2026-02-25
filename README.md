@@ -2,12 +2,12 @@
 <img width="1857" height="960" alt="image" src="https://github.com/user-attachments/assets/532af022-7b0a-4ffa-b35b-3ec13bde6428" />
 <img width="1857" height="960" alt="image" src="https://github.com/user-attachments/assets/c2c0e753-dbfd-4c21-b129-a5c369a4f98d" />
 
-SetData is a tool for performing intersection, difference, and union operations on data in intelligence analysis.
+# SetData is a tool for performing intersection, difference, and union operations on data in intelligence analysis.Supports running in offline environments.Only a browser is required; no other environment support is needed.
 
-SetData是一款在情报分析工作中可以进行数据的交集、差集、并集运算的工具。
+# SetData是一款在情报分析工作中可以进行数据的交集、差集、并集运算的工具。支持在离线环境运行。仅需浏览器无需其他环境支持。
 
 
-[Upload# **SetData \- In-Depth User Manual**
+# **SetData \- In-Depth User Manual**
 
 **Version**: V1.0 (Local Offline Enhanced Edition)
 
