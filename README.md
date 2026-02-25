@@ -1,4 +1,6 @@
-# SetData
+# SetData交集、差集、并集数据碰撞工具（情报分析定制版）
+# SetData intersection, difference, and union data collision tool (customized version for intelligence analysis)
+
 <img width="1857" height="960" alt="image" src="https://github.com/user-attachments/assets/532af022-7b0a-4ffa-b35b-3ec13bde6428" />
 <img width="1857" height="960" alt="image" src="https://github.com/user-attachments/assets/c2c0e753-dbfd-4c21-b129-a5c369a4f98d" />
 
